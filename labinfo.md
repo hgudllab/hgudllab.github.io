@@ -64,6 +64,6 @@ subtitle: Would you like to run with us?
 
 # Contact me
 
-Jinhyeok Yang
+Minsu Kang
 
-e-mail: [jhyang@handong.edu](jhyang@handong.edu)
+e-mail: [minsu.handong@gmail.com](minsu.handong@gmail.com)
