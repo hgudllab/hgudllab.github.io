@@ -64,6 +64,9 @@ subtitle: Would you like to run with us?
 
 - ### Simin Kim
 
+- ### Jinhyeok Jeong
+  - [Profile](https://zoomkoding.github.io/)
+
 # Alumni
 
 - ### Sohee Yang
