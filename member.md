@@ -15,6 +15,10 @@ subtitle: Would you like to run with us?
   - B.S at HGU, [Profile](https://yangyangii.github.io/)
 
 - ### Heebeom Kim (2019. 1. ~ )
+  - B.S at HGU
+
+- ### Minsu Kang (2019. 8. ~)
+  - B.S at HGU
 
 # Undergraduate Student Researcher
 
@@ -56,6 +60,10 @@ subtitle: Would you like to run with us?
 
 - ### Jinmyeong Suh
 
+- ### Jihyun Lee
+
+- ### Simin Kim
+
 # Alumni
 
 - ### Sohee Yang
@@ -93,9 +101,6 @@ subtitle: Would you like to run with us?
 
 - ### Juheon Jeon
   - LINE Corp.
-
-- ### Minsu Kang
-  - UNIST
 
 - ### Sungkyong Lee
   - ZUM Internet
